@@ -19,10 +19,10 @@
     "require": {
         "almasaeed2010/adminlte" : "2.4.*",
         "laravel/framework": "5.8.*|^6.0|^7.0|^8.0|^9.0",
-        "prologue/alerts": "^0.4.1",
+        "prologue/alerts": "^1.0",
         "creativeorange/gravatar": "~1.0",
         "nesbot/carbon": "^2.14.0",
-        "laravel/helpers": "^1.1"
+        "laravel/helpers": "^1.5"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0",
